@@ -3,7 +3,7 @@
 
 ### Introduction
 
-In the last lesson, we derived the functions that we help us descend along our cost functions efficiently.  Remember that this technique is not so different from what we saw with using the derivative to tell us our next step size and direction in two dimensions.  
+In the last lesson, we derived the functions that help us descend along our cost functions efficiently.  Remember that this technique is not so different from what we saw with using the derivative to tell us our next step size and direction in two dimensions.  
 
 ![](./tangent-lines.png)
 
